@@ -95,7 +95,7 @@ int main()
 	return 0;
 }
 
-void plain (int array[] , int size) //Couldn't do this program without pointers which I looked up on youtube (https://www.youtube.com/watch?v=czrbhZjp4JA&t=3s) << if you want you can post it on blackboard to help others.
+void plain (int array[] , int size) 
 {
 	
 	for(int pass = 1 ; pass<=(size-1) ; pass++)
